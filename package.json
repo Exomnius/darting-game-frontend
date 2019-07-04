@@ -1,5 +1,4 @@
 {
-  "name": "jdk-darts-frontend",
   "private": true,
   "workspaces": [
     "packages/*"

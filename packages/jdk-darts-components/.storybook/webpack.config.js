@@ -23,6 +23,7 @@ module.exports = async ({config}) => {
 
 	config.resolve = {
 		alias: {
+			'vue$': 'vue/dist/vue.esm.js',
 			'@': path.dirname(path.resolve(__dirname))
 		}
 	};

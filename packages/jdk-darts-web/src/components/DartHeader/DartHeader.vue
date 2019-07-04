@@ -10,7 +10,7 @@
 
 <script lang="ts">
   import {Component, Vue} from 'vue-property-decorator';
-  import Button from '@/components/Button/Button.vue';
+  import Button from '@jdk-darts/jdk-darts-components/components/Button/Button.vue';
 
   @Component({
     components: {

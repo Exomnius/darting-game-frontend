@@ -17,9 +17,9 @@
     },
     computed: {
       elementType() {
-        if (this.$props.to) {
-          return 'router-link';
-        }
+        // if (this.to) {
+        //   return 'router-link';
+        // }
 
         return 'button';
       },
